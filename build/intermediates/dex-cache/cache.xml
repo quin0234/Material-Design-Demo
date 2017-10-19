@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/paulquinnell/Desktop/matdemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/paulquinnell/Desktop/matdemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3ec390fb781d5419836471d67992bbeef94f64c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulquinnell/.android/build-cache/35d54c4c93a96d4c02daba5815be2a760e33003f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/paulquinnell/Desktop/matdemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81552311abccef8c579f3268f602b551ddeae826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulquinnell/Desktop/matdemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5d859406cae017484fcdff0e86aa1914b35ffb1">
+        <dex dex="/Users/paulquinnell/Desktop/matdemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57fa6e3bc5aea348724910ea4abc8eb7505d6853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulquinnell/.android/build-cache/6886b55c2ddb711159214964325507204b88b3e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/paulquinnell/Desktop/matdemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e874df24d46e1b7711476fec9361b8f1c469e20/classes.dex" />
+    </item>
+
+</items>
